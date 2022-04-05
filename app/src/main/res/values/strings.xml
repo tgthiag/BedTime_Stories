@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BedTime Stories</string>
+    <string name="question1" translatable="false">How old are you?</string>
+    <string name="hint1" translatable="false">-I am … years old</string>
+    <string name="question2" translatable="false">Do you have pets?</string>
+    <string name="hint2" translatable="false">-I have a dog and two cats</string>
+    <string name="question3" translatable="false">Who is your best friend?</string>
+    <string name="hint3" translatable="false">-My best friend is…</string>
+    <string name="question4" translatable="false">What’s your name?</string>
+    <string name="hint4" translatable="false">-My name is…</string>
+    <string name="question5" translatable="false">Where are you from?</string>
+    <string name="hint5" translatable="false">-I am from…</string>
+    <string name="question6" translatable="false">What company do you work for?</string>
+    <string name="hint6" translatable="false">-I work for…</string>
+    <string name="question7" translatable="false">Have you got a pet?</string>
+    <string name="hint7" translatable="false">-For sure, I have a dog.</string>
+    <string name="question8" translatable="false">Are you married?</string>
+    <string name="hint8" translatable="false">–No, but looking for someone nice…</string>
+</resources>
